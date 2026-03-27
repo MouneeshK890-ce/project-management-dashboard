@@ -119,7 +119,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[Live Application](https://pm-dashboard-mouneesh.netlify.app/tasks)
+[Live Application](https://pm-dashboard-mouneesh.netlify.app)
 
 ## 👨‍💻 Author
 
