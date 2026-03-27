@@ -115,11 +115,11 @@ npm run dev
 
 ## 🎥 Demo Video
 
-[Watch Demo Video]()
+[Watch Demo Video](https://drive.google.com/file/d/1WFDdo3QuEERT1fBfU8II-6MraD0hsuHU/view?usp=drive_link)
 
 ## 🌐 Live Demo
 
-[Live Application]()
+[Live Application](https://pm-dashboard-mouneesh.netlify.app/tasks)
 
 ## 👨‍💻 Author
 
