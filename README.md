@@ -86,17 +86,21 @@ The app demonstrates real-world frontend concepts like **state management, form 
 
 ## ⚙️ Setup Instructions
 
+Clone repository :
 ```bash
-# Clone repository
 git clone https://github.com/YOUR_USERNAME/project-management-dashboard.git
-
-# Navigate to project
+```
+Navigate to project :
+```bash
 cd project-management-dashboard
-
-# Install dependencies
+```
+Install dependencies :
+```bash
 npm install
+```
 
-# Run development server
+Run development server :
+```bash
 npm run dev
 ```
 ## 📸 Screenshots
